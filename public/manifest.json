@@ -5,8 +5,8 @@
   "iconPath": "aave.svg",
   "icons": [
     {
-      "src": "favicon32.png",
-      "sizes": "32x32",
+      "src": "favicon64.png",
+      "sizes": "64x64",
       "type": "image/png"
     }
   ],
