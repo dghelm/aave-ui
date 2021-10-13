@@ -1,6 +1,6 @@
 {
-  "short_name": "Aave v2",
-  "name": "Aave v2",
+  "short_name": "Aave v2 UNOFFICIAL",
+  "name": "Aave v2 UNOFFICIAL",
   "description": "Non-custodial liquidity protocol to earn interest on deposits and borrow",
   "iconPath": "aave.svg",
   "icons": [
@@ -13,5 +13,6 @@
   "start_url": "./index.html",
   "display": "standalone",
   "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "background_color": "#ffffff",
+  "skynet": ""
 }
